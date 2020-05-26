@@ -1,5 +1,6 @@
-## Bootstrap project based on webpack + babel.
+## Bootstrap project based on webpack + babel
 
 ```
 npm ci
+npm run start
 ```
